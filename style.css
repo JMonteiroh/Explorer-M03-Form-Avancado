@@ -12,7 +12,7 @@ body {
 
 body::before {
   content: '';
-  width: 1000vmax;
+  width: 100%;
   background: #293241;
   height: 465px;
   position: absolute;
